@@ -8,7 +8,7 @@ Full-stack developer passionate about building innovative solutions that solve r
 
 ### 🌟 [UMUCYO AI Classifier](https://github.com/kevinbivegete/umucyo-ai-classifier)
 
-**AI-Powered Government Procurement Classification System**
+**Rwanda's Online E-Procurement AI-Powered Classification System**
 
 - Revolutionary AI solution that transforms Rwanda's e-procurement by automatically classifying items with detailed attributes
 - Features machine learning-powered attribute extraction, human-in-the-loop validation, and complete UNSPSC integration
@@ -17,7 +17,7 @@ Full-stack developer passionate about building innovative solutions that solve r
 
 ### 🌾 [e-Hinga Marketplace](https://github.com/kevinbivegete/ehinga-marketplace)
 
-**Agricultural Marketplace Platform for Rwanda**
+**Agricultural Marketplace Platform for World Vision Rwanda**
 
 - Multi-seller marketplace connecting farmers, producers, and buyers across 30 districts in Rwanda
 - Features real-time product search, cart management, wishlist functionality, and mobile-first design
