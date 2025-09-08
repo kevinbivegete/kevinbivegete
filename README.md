@@ -89,29 +89,6 @@ Full-stack developer passionate about building innovative solutions that solve r
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
-## 🎯 Key Expertise
-
-- **AI Integration:** Machine learning models, natural language processing, chatbot development
-- **Government Solutions:** E-procurement systems, compliance-focused development, data security
-- **Healthcare Technology:** Maternal health platforms, medical data handling, privacy-first design
-- **Agricultural Technology:** Marketplace platforms, farmer-centric solutions, rural connectivity
-- **Weather & Climate:** Real-time data visualization, meteorological systems, early warning platforms
-- **Transportation:** Booking systems, fleet management, payment processing
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinbivegete&show_icons=true&theme=dark&hide_border=true" alt="Kevin's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbivegete&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbivegete&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rodrigue-shema-bivegete-37b167205/)
