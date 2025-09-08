@@ -19,7 +19,7 @@ Full-stack developer passionate about building innovative solutions that solve r
 
 **Agricultural Marketplace Platform for Rwanda**
 
-- Multi-seller marketplace connecting farmers, producers, and buyers across 29 districts in Rwanda
+- Multi-seller marketplace connecting farmers, producers, and buyers across 30 districts in Rwanda
 - Features real-time product search, cart management, wishlist functionality, and mobile-first design
 - Comprehensive product catalog with grains, vegetables, fruits, livestock, and agricultural tools
 - **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, Dark Mode UI
@@ -38,7 +38,7 @@ Full-stack developer passionate about building innovative solutions that solve r
 **Real-time Weather Analytics Platform**
 
 - Professional weather intelligence platform featuring operational monitoring and climate analytics
-- Real-time data from 127+ weather stations with 98.7% accuracy and early warning systems
+- Real-time data from weather stations with high accuracy and early warning systems
 - Agricultural intelligence with crop insights and farming decision support
 - **Tech Stack:** Next.js 14, TypeScript, Chart.js, Tailwind CSS, Real-time APIs
 
