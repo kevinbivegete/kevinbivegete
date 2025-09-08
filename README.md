@@ -24,7 +24,7 @@ Full-stack developer passionate about building innovative solutions that solve r
 - Comprehensive product catalog with grains, vegetables, fruits, livestock, and agricultural tools
 - **Tech Stack:** Next.js 15, React 19, TypeScript, Tailwind CSS, Dark Mode UI
 
-### 🏥 [Mama Health App](https://github.com/kevinbivegete/mama-health-app)
+### 🏥 [Mama Health App](https://github.com/PersuasiveTechLab/mama)
 
 **AI-Powered Maternal Health Platform**
 
