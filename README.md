@@ -112,28 +112,10 @@ Full-stack developer passionate about building innovative solutions that solve r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbivegete&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🌟 Notable Achievements
-
-- 🏆 Developed AI-powered procurement system improving government efficiency by 95%
-- 🌾 Created agricultural marketplace serving 29 districts across Rwanda
-- 📱 Built maternal health platform supporting pregnancy journeys in Tanzania
-- 🌤️ Delivered weather intelligence platform with 98.7% accuracy rate
-- 🚌 Launched complete transportation booking ecosystem with operator tools
-
-## 📈 Impact & Reach
-
-- **2.3M+** Daily weather data requests served
-- **29** Districts covered by agricultural marketplace
-- **127+** Weather stations integrated
-- **95%** AI classification accuracy achieved
-- **Multiple** Health and transportation platforms deployed
-
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinbivegete)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kevinbivegete)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin.bivegete@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kevinbivegete.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-rodrigue-shema-bivegete-37b167205/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinbivegete@gmail.com)
 
 ---
 
