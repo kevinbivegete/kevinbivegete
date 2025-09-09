@@ -51,14 +51,15 @@ Full-stack developer passionate about building innovative solutions that solve r
 - USSD integration for offline access and comprehensive weather dashboard
 - **Tech Stack:** React Native, Expo, TypeScript, Weather APIs, Cross-platform Development
 
-### 🚌 [TripBook Platform](https://github.com/kevinbivegete/trip-book)
+### 🚌 TripBook - Complete Bus Booking Ecosystem
 
-**Complete Bus Booking Ecosystem**
+**Dual-Platform Transportation Solution** | [🎫 Passenger App](https://github.com/kevinbivegete/trip-book) | [🚌 Operator Dashboard](https://github.com/kevinbivegete/trip-book-operator)
 
-- Customer-facing bus booking platform with seat selection, payment processing, and trip management
-- Operator dashboard for fleet management, route planning, and schedule optimization
-- Multi-language support (English/Kinyarwanda), QR code ticketing, and responsive design
-- **Tech Stack:** React, TypeScript, Vite, i18n Internationalization, Payment Integration
+- **Passenger Platform:** React-based booking interface with seat selection, payment processing, and trip management
+- **Operator Dashboard:** Comprehensive fleet management, route planning, and business analytics
+- **Complete Ecosystem:** Two integrated applications serving both sides of the transportation market
+- **Features:** Multi-language support (English/Kinyarwanda), QR code ticketing, responsive design, real-time updates
+- **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, i18n Internationalization, Payment Integration
 
 ## 🛠️ Tech Stack
 
